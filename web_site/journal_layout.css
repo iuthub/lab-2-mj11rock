@@ -1,0 +1,47 @@
+body{
+	background-image: url(images/background.jpg); 
+	margin:0 10% 0;
+}
+
+
+
+header{
+	background: #A8F0F0;
+	text-align: right;
+	border: 5px #A8F0F0 solid;
+}
+
+.content{
+	background: white;
+	margin:0 10% 0;
+	border: 10px white solid;
+}
+
+.border{
+	overflow: hidden;
+	padding: 5px;
+	margin: 0px;
+	margin-top: 10px; 
+	margin-left: 0px;
+	background: #E8FBFB;
+	border: 4px #C2E9E9 solid;
+}
+
+.date{
+	border-bottom: 2px #56E1ED dashed;
+}
+
+.info{
+	font-size: 14pt;
+}
+
+.float{
+	float: right;
+}
+.side{
+	background: #51CAC0;
+	border: 5px #189291 solid;
+	margin: 10px 5px 100%; 
+	padding: 4px;
+	float: left;
+}
